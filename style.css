@@ -175,12 +175,7 @@ div.fadeIn {
     height: 150px;
     width: 100px;
   }
-  .match{
-    width: 400px;
-    align-items: center;
-    margin: auto;
-  }
-
+  
   .match button {
     width: 120px;
   }
