@@ -161,20 +161,23 @@ div.fadeIn {
 
 
 @media (max-width: 1000px) {
-  .intro {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    transition: opacity 0.6s ease;
-  }
-
   .intro h1 {
     font-size: 25px;
     text-align: center;
+  }
+
+  .winner {
+    margin-top: 60px;
+    font-size: 25px;
+  }
+
+  .hands img {
+    height: 150px;
+    width: 100px;
+  }
+
+  .match button {
+    width: 120px;
   }
 }
 
