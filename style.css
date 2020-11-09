@@ -176,6 +176,7 @@ div.fadeIn {
     width: 100px;
   }
   .match{
+    width: 700px;
     align-items: center;
     margin: auto;
   }
