@@ -175,6 +175,9 @@ div.fadeIn {
     height: 150px;
     width: 100px;
   }
+  .match{
+    margin: auto;
+  }
 
   .match button {
     width: 120px;
