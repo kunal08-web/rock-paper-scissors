@@ -160,7 +160,7 @@ div.fadeIn {
 }
 
 
-@media (max-width: 1000px) {
+@media (max-width: 450px) {
   .intro h1 {
     font-size: 25px;
     text-align: center;
